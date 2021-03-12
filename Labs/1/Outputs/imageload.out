@@ -1,0 +1,16 @@
+Loading /bin/ls, Image id = 1
+Loading /lib64/ld-linux-x86-64.so.2, Image id = 2
+Loading [vdso], Image id = 3
+Loading /lib/x86_64-linux-gnu/libselinux.so.1, Image id = 4
+Loading /lib/x86_64-linux-gnu/libc.so.6, Image id = 5
+Loading /lib/x86_64-linux-gnu/libpcre.so.3, Image id = 6
+Loading /lib/x86_64-linux-gnu/libdl.so.2, Image id = 7
+Loading /lib/x86_64-linux-gnu/libpthread.so.0, Image id = 8
+Unloading /bin/ls
+Unloading /lib64/ld-linux-x86-64.so.2
+Unloading [vdso]
+Unloading /lib/x86_64-linux-gnu/libselinux.so.1
+Unloading /lib/x86_64-linux-gnu/libc.so.6
+Unloading /lib/x86_64-linux-gnu/libpcre.so.3
+Unloading /lib/x86_64-linux-gnu/libdl.so.2
+Unloading /lib/x86_64-linux-gnu/libpthread.so.0
